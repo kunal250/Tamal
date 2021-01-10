@@ -1,0 +1,19 @@
+h1{
+    color: chartreuse;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    color: tomato;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: teal;font-size: large;font-family: cursive;
+}
+li{
+    list-style-type:square;
+    color: blue;
+}
+.special{
+    color: rgb(30, 238, 23)
+}
